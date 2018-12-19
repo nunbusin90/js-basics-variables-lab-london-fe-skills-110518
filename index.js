@@ -7,4 +7,4 @@ function Scuber() {
   }
 }
 
-expect(function () { companyName = 'specialCompany' }).to.throw(TypeError);
+var mostProfitableNeighborhood = ''
