@@ -1,6 +1,5 @@
 // Code your solution in this file!
-let companyName = 'Scuber'
-  function Scuber() {
+let companyName = 'Scuber';
     if (companyName != ('Scuber')) {
       throw TypeError("TypeError");
     }
