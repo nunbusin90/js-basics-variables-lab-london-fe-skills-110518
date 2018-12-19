@@ -1,4 +1,8 @@
 // Code your solution in this file!
 let companyName = 'Scuber';
 
-expect(function () { companyName = 'specialCompany' }).to.throw(TypeError);
+function Scuber() {
+  if (typeof nameChange) {
+    throw TypeError("TypeError");
+  }
+}
