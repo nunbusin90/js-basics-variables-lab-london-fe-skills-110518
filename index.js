@@ -7,4 +7,4 @@ function Scuber() {
   }
 }
 
-var mostProfitableNeighborhood = ''
+var mostProfitableNeighborhood = 'Chelsea';
