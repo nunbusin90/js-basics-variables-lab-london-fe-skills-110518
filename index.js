@@ -1,6 +1,6 @@
 // Code your solution in this file!
 let companyName = 'Scuber';
-  function () {
+  function Scuber () {
     if (companyName = ('specialCompany')) {
       throw ("TypeError");
     }
