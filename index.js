@@ -8,3 +8,5 @@ function Scuber() {
 }
 
 var mostProfitableNeighborhood = 'Chelsea';
+
+let companyCeo = '';
