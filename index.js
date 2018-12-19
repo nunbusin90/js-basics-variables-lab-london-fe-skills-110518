@@ -3,7 +3,7 @@ let companyName = 'Scuber';
 
 function Scuber() {
   if (typeof nameChange) {
-    throw TypeError("");
+    throw TypeError("TypeError");
   }
   return name.toUpperCase();
 }
