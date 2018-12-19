@@ -9,4 +9,4 @@ function Scuber() {
 
 var mostProfitableNeighborhood = 'Chelsea';
 
-let companyCeo = '';
+let companyCeo = 'Susan Smith';
