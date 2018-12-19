@@ -1,7 +1,7 @@
 // Code your solution in this file!
 let companyName = 'Scuber';
 
-function upperCase(name) {
+function Scuber() {
   if (typeof name !== "string") {
     throw TypeError("name must be a string");
   }
