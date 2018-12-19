@@ -3,7 +3,7 @@ let companyName = 'Scuber';
 
   function typeError() {
     if (companyName != ('Scuber')) {
-      throw ("TypeError");
+      to.throw ("TypeError");
     }
   }
 
