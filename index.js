@@ -2,7 +2,7 @@
 let companyName = 'Scuber';
 
 function Scuber() {
-  if (typeof companyName == ('Scuber')) {
+  if (companyName != ('Scuber')) {
     throw TypeError("TypeError");
   }
 }
