@@ -1,7 +1,7 @@
 // Code your solution in this file!
 // let companyName = 'Scuber';
 
-const compnayName = 'Scuber2'
+const companyName = 'specialCompany'
   function typeError() {
     if (companyName != ('Scuber')) {
       throw ("TypeError");
