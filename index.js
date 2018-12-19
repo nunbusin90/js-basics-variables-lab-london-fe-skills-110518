@@ -1,5 +1,5 @@
 // Code your solution in this file!
-// let companyName = 'Scuber';
+let specialCompany = 'Scuber';
 
 const companyName = 'specialCompany'
   function typeError() {
