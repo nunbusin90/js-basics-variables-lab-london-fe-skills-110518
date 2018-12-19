@@ -5,5 +5,4 @@ function Scuber() {
   if (typeof nameChange) {
     throw TypeError("TypeError");
   }
-  return name.toUpperCase();
 }
