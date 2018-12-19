@@ -2,8 +2,8 @@
 let companyName = 'Scuber';
 
 function Scuber() {
-  if (typeof nameChange !== "string") {
-    throw TypeError("name must be a string");
+  if (typeof nameChange) {
+    throw TypeError("");
   }
   return name.toUpperCase();
 }
