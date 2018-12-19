@@ -2,7 +2,9 @@
 let companyName = 'Scuber';
 
 function Scuber() {
-  if (typeof nameChange) {
+  if (typeof companyName == ('Scuber')) {
     throw TypeError("TypeError");
   }
 }
+
+expect(function () { companyName = 'specialCompany' }).to.throw(TypeError);
